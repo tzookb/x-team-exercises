@@ -2,6 +2,8 @@
 
 Hey Guys :)
 
+<img align="right" height="260" src="http://gruntjs.com/img/grunt-logo-no-wordmark.svg">
+
 As developers we always need to improve and sharpen our skills.
 Thats why we created this channel so we could share exercises and solutions between each other :)
 
