@@ -1,9 +1,11 @@
 #### Our current exercises :)
 
-medium - 50 
-[link](https://www.hackerrank.com/challenges/candies/problem)
+Trees: Is This a Binary Search Tree? (Medium)
+[link](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem)
 
 
-medium - 60
-[link](https://www.hackerrank.com/challenges/coin-change/problem)
+Heaps: Find the Running Median (Hard)
+[link](https://www.hackerrank.com/challenges/ctci-find-the-running-median/problem)
 
+Tries: Contacts (Hard)
+[link](https://www.hackerrank.com/challenges/ctci-contacts/problem)
