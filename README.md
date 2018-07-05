@@ -1,6 +1,6 @@
 # Programming Club
 
-Hey Guys :)
+Hey team :)
 
 <img align="right" height="100" src="./logo.png">
 
