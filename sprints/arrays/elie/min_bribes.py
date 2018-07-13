@@ -7,16 +7,15 @@ def min_bribes(n, q):
             return 'Too chaotic'
 
     count = 0
-    while True:
-        prev = 0
-        for i in xrange(prev, n - 1):
+    done = False
+
+    while not done:
+        done = True
+        for i in xrange(n - 1):
             if q[i] > q[i + 1]:
                 q[i], q[i + 1] = q[i + 1], q[i]
                 count += 1
-                prev = i
-
-        if not prev:
-            break
+                done = False
 
     return count
 
