@@ -13,7 +13,7 @@ def min_bribes(n, q):
             if q[i] > q[i + 1]:
                 q[i], q[i + 1] = q[i + 1], q[i]
                 count += 1
-                prev = j
+                prev = i
 
         if not prev:
             break
