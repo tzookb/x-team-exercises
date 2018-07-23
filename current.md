@@ -1,3 +1,3 @@
-#### Our current exercises :)  (5.7.18-21.7.18)
+#### Our current exercises :)  (23.7.18-11.8.18)
 
-[Arrays Questions](https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges)
+[Hashmaps Questions](https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges)

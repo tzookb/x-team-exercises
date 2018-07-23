@@ -1,3 +1,12 @@
+##  5/7-21/7 2018
+
+#### Exercises
+[Arrays Questions](https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges)
+
+#### Submitters
+- elie
+- tzookb
+
 ## May 14th 2018
 
 #### Exercises
