@@ -1,4 +1,4 @@
-#!/bin/python
+# https://www.hackerrank.com/challenges/ctci-ransom-note/problem
 
 
 def ransom(magazine, note):
